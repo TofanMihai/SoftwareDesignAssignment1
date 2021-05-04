@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Workspace/SDAssignment1/mysql-connector-java-8.0.19.jar" sourcepath="C:/Users/mihai/.m2/repository/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Workspace/SDAssignment1/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Workspace/SDAssignment1/rs2xml.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Workspace/SDAssignment1/mockrunner-jdk1.6-j2ee1.3-0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
